@@ -1,3 +1,6 @@
 [1124/194907.770:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
 [1124/194908.061:ERROR:exception_snapshot_win.cc(99)] thread ID 13180 not found in process
 [1124/194908.062:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1212/122424.700:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1212/124613.020:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1212/195009.416:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
